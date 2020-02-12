@@ -7,3 +7,4 @@ Solutions to all of HackerRank Problem statements are provided here. Feel free t
 4) [C++](https://github.com/RankJay/HackerRank-Solutions/tree/master/C%2B%2B)
 5) [Java](https://github.com/RankJay/HackerRank-Solutions/tree/master/Java)
 6) [Python](https://github.com/RankJay/HackerRank-Solutions/tree/master/Python)
+7) [Problem Solving, C](https://github.com/RankJay/HackerRank-Solutions/tree/master/Problem%20Solving)
