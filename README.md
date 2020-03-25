@@ -16,3 +16,4 @@ Solutions to all of HackerRank Problem statements are provided here. Feel free t
 6) [Python](https://github.com/RankJay/HackerRank-Solutions/tree/master/Python)
 7) [Problem Solving, C](https://github.com/RankJay/HackerRank-Solutions/tree/master/Problem%20Solving)
 8) [Project Euler+](https://github.com/RankJay/HackerRank-Solutions/tree/master/Project%20Euler%2B)
+9) [Artificial Intelligence]()
