@@ -1,6 +1,7 @@
 # HackerRank-Solutions
 Solutions to all of HackerRank Problem statements are provided here. Feel free to raise any query or doubts related to my code.
 ## Top Coding practice websites:
+Below listed are some of the top-rated coding practices' websites:
 - [HackerRank](http://hackerrank.com/)
 - [HackerEarth](https://www.hackerearth.com)
 - [CodeChef](https://www.codechef.com/)
